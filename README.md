@@ -1,5 +1,5 @@
-# Ruby Scraper using HTTParty and Nokogiri
-<!--- ![screenshot](./img/app_screenshot.png) --->
+# Rails Stripe API
+<!---![screenshot](./app/assets/images/Screen_Shot.png)--->
 
 ## Objectives
 
@@ -31,12 +31,8 @@ Ruby installed on your computer to be able to run rails.
 
 ## What it does:
 
-1. Targets a URL.
-2. Gets RAW HTML.
-3. Extracts targeted DATA.
-4. Displays values in terminal.
-5. Allows you to directly navicate to download page 
-(*Site requires you to be a member to downlaod, registration is free*)
+1. Connects to your Stripe account.
+2. Processes a payment.
 
 ## Authors
 
