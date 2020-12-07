@@ -1,5 +1,5 @@
 # Rails Stripe API
-<!---![screenshot](./app/assets/images/Screen_Shot.png)--->
+![screenshot](./app/assets/images/Screen_Shot.png)
 
 ## Objectives
 
